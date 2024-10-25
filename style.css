@@ -1,0 +1,15 @@
+body {
+    background-size: cover; /* Ensures the image covers the entire area */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center;
+    opacity: 23;
+    margin: 10; /* Removes default margin */
+}
+.abc{
+    font-weight: 700;
+    font-size: 30px;
+    color: red;
+    padding: 5px;
+    border: 3px solid black;
+    border-radius: 8px;
+}
